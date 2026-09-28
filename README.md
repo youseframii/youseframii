@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yousef+Ramy+%F0%9F%91%8B;Computer+%26+Control+Systems+Engineering+Student;Pistol+Shooter+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="./profile.png" alt="Youssef Rami" width="180" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Youssef+Rami+%F0%9F%91%8B;Computer+%26+Control+Systems+Engineering+Student;Pistol+Shooter+%F0%9F%8E%AF" alt="Typing SVG" />
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yousef_Ramy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-engyjramy19@icloud.com-lightgrey?style=flat&logo=icloud&logoColor=white)](mailto:engyjramy19@icloud.com)
 
 </div>
 
@@ -17,8 +17,8 @@
 
 - 🎓 Student at the **Faculty of Engineering, Benha University** — Computer Engineering & Control Systems Department.
 - 🎯 **Pistol shooter** — precision, focus and discipline are part of how I work, on the range and in code.
-- 🔭 Interested in embedded systems, control systems, and software development.
-- 🌱 Currently learning: **YOUR_CURRENT_TOPIC** (e.g. Embedded C, Python, ROS, PID control)
+- 🔭 Interested in embedded systems, control systems, cybersecurity, and software development.
+- 🌱 Currently learning: **Cybersecurity 🔐, Docker 🐳, and n8n ⚙️ (workflow automation)**
 - 💬 Ask me about: **Engineering, Programming, Shooting Sports**
 - 📍 Based in Benha, Egypt 🇪🇬
 
@@ -35,6 +35,9 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-critical?style=flat&logo=hackthebox&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
@@ -42,14 +45,14 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ```python
-class Yousef:
+class Youssef:
     def __init__(self):
-        self.name = "Yousef Ramy"
+        self.name = "Youssef Rami"
         self.university = "Benha University"
         self.faculty = "Faculty of Engineering"
         self.major = "Computer & Control Systems Engineering"
         self.sport = "Pistol Shooting 🎯"
-        self.interests = ["Embedded Systems", "Control Systems", "Programming"]
+        self.interests = ["Embedded Systems", "Control Systems", "Cybersecurity", "Docker", "n8n"]
 
     def motto(self):
         return "Aim high, stay focused, hit the target."
