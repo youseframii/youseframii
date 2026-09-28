@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="./profile.png" alt="Youssef Rami" width="180" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Youssef+Rami+%F0%9F%91%8B;Computer+%26+Control+Systems+Engineering+Student;Pistol+Shooter+%F0%9F%8E%AF" alt="Typing SVG" />
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Email](https://img.shields.io/badge/Email-engyjramy19@icloud.com-lightgrey?style=flat&logo=icloud&logoColor=white)](mailto:engyjramy19@icloud.com)
 
 </div>
@@ -71,9 +68,6 @@ class Youssef:
 
 ---
 
-## 🎯 Fun Fact
-
-In shooting you have to control your breathing, hold steady and squeeze the trigger smoothly — which is a lot like tuning a **PID controller**: small, precise corrections until you reach the target.
 
 <div align="center">
 
